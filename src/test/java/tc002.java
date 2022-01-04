@@ -4,5 +4,5 @@ public class tc002 {
 
     // work 2 completed
 
-    //test case finishe
+    //test case finished
 }
